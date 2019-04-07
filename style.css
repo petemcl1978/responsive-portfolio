@@ -1,0 +1,60 @@
+img {
+    float: left;
+}
+    
+H1 {
+    color: white;
+    background-color: rgb(10, 128, 128);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    Padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 650px;
+}
+h2 {color: rgb(20, 175, 175)}
+my-story {
+    
+    max-width: 960px;
+    margin-top: 30%;
+    Margin-bottom: 50%;
+    margin-left: 70%;
+    margin-right: 70%;
+
+
+}
+ ul {
+     list-style-type: none;
+     margin-left: 80%;
+     margin-top: 0;
+     
+
+     padding: 0%
+
+ }   
+    li{
+        display: inline;
+
+    }
+
+
+.container {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+
+}
+
+    
+
+
+    
+
+
+
+footer {background-color: rgb(128, 128, 128);
+    color: rgb(128, 128, 128);
+padding-top 60px;
+padding-bottom 40px;
+padding-right 100px;
+padding-left 0px:
+}
